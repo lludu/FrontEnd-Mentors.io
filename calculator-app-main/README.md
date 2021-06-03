@@ -9,22 +9,22 @@ Thanks for checking out how this front end mentor challenge is going:
 Here's the breakdown so far:
 
 June 3rd, 2021:
-    ```1. Custom Bootstrap html file created to match calculator challenge
-    2. Created CSS / JS Files
-    3. Calculator is now styled with first CSS theme
+    1- Custom Bootstrap html file created to match calculator challenge
+    2- Created CSS / JS Files
+    3- Calculator is now styled with first CSS theme
       a. Need to figure out how to create a theme switcher slider
       b. How to implement more themes
       c. https://codepen.io/michellebarker/pen/GzzrGJ has a good theme switcher, however its only 2. how can I make it three?
-    4. JS is now detecting keystrokes on the numpad (on the keyboard) and changing the innerHTML of the output window, however they are not concatenated.```
+    4- JS is now detecting keystrokes on the numpad (on the keyboard) and changing the innerHTML of the output window, however they are not concatenated.
 
 
 ## The challenge
 
-Your challenge is to build out this calculator app and get it looking as close to the design as possible.
+The challenge is to build out this calculator app and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Your users should be able to:
+The users should be able to:
 
 - See the size of the elements adjust based on their device's screen size
 - Perform mathematical operations like addition, subtraction, multiplication, and division
